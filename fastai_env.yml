@@ -5,11 +5,11 @@ channels:
 - conda-forge
 - pytorch
 - fastai
+- fastchan
 dependencies:
-- python < 3.9
 - fastai
 - pytorch
-- cudatoolkit==10.2
+- cudatoolkit=10.2
 - numpy
 - pandas 
 - matplotlib
