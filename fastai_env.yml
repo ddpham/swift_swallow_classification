@@ -4,12 +4,10 @@ channels:
 - anaconda
 - conda-forge
 - pytorch
-- fastai
 - fastchan
 dependencies:
 - fastai
 - pytorch
-- cudatoolkit=10.2
 - numpy
 - pandas 
 - matplotlib
