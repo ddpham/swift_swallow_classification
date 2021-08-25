@@ -1,7 +1,5 @@
 name: dl
 channels:
-- defaults
-- anaconda
 - conda-forge
 - pytorch
 - fastchan
@@ -13,6 +11,5 @@ dependencies:
 - matplotlib
 - jupyter
 - jupyterlab
-- pip
 - pip:
   - nbdev  
