@@ -1,0 +1,22 @@
+name: tf
+channels:
+- defaults
+- anaconda
+- conda-forge
+dependencies:
+- cudatoolkit
+- python=3.8
+- numpy
+- pandas
+- matplotlib
+- urllib3
+- scikit-learn
+- jupyter 
+- jupyterlab
+- pip
+- pip:
+  - nbdev
+  - tensorflow-datasets
+  - tensorflow-text
+  - tensorflow==2.4.1
+  - tensorflow-gpu==2.4.1
