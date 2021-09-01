@@ -11,5 +11,6 @@ dependencies:
 - matplotlib
 - jupyter
 - jupyterlab
+- pip
 - pip:
   - nbdev  
