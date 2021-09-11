@@ -1,5 +1,4 @@
 fastai
-nbdev
 voila
 ipython
 ipywidgets
