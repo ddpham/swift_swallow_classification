@@ -2,7 +2,7 @@ name: dl
 channels:
 - conda-forge
 - pytorch
-- fastchan
+- fastai
 dependencies:
 - fastai
 - pytorch
